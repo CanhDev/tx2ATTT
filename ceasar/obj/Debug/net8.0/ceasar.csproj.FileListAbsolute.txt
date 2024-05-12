@@ -1,0 +1,14 @@
+D:\Canh\ki_6\ATBM\ontx2\ceasar\bin\Debug\net8.0\ceasar.exe
+D:\Canh\ki_6\ATBM\ontx2\ceasar\bin\Debug\net8.0\ceasar.deps.json
+D:\Canh\ki_6\ATBM\ontx2\ceasar\bin\Debug\net8.0\ceasar.runtimeconfig.json
+D:\Canh\ki_6\ATBM\ontx2\ceasar\bin\Debug\net8.0\ceasar.dll
+D:\Canh\ki_6\ATBM\ontx2\ceasar\bin\Debug\net8.0\ceasar.pdb
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.AssemblyInfoInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.AssemblyInfo.cs
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.csproj.CoreCompileInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.dll
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\refint\ceasar.dll
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.pdb
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ceasar.genruntimeconfig.cache
+D:\Canh\ki_6\ATBM\ontx2\ceasar\obj\Debug\net8.0\ref\ceasar.dll

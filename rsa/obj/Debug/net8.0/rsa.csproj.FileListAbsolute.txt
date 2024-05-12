@@ -1,0 +1,14 @@
+D:\Canh\ki_6\ATBM\ontx2\rsa\bin\Debug\net8.0\rsa.exe
+D:\Canh\ki_6\ATBM\ontx2\rsa\bin\Debug\net8.0\rsa.deps.json
+D:\Canh\ki_6\ATBM\ontx2\rsa\bin\Debug\net8.0\rsa.runtimeconfig.json
+D:\Canh\ki_6\ATBM\ontx2\rsa\bin\Debug\net8.0\rsa.dll
+D:\Canh\ki_6\ATBM\ontx2\rsa\bin\Debug\net8.0\rsa.pdb
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.AssemblyInfoInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.AssemblyInfo.cs
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.csproj.CoreCompileInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.dll
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\refint\rsa.dll
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.pdb
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\rsa.genruntimeconfig.cache
+D:\Canh\ki_6\ATBM\ontx2\rsa\obj\Debug\net8.0\ref\rsa.dll

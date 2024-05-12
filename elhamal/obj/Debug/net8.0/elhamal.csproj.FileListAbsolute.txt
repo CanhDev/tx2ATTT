@@ -1,0 +1,14 @@
+D:\Canh\ki_6\ATBM\ontx2\elhamal\bin\Debug\net8.0\elhamal.exe
+D:\Canh\ki_6\ATBM\ontx2\elhamal\bin\Debug\net8.0\elhamal.deps.json
+D:\Canh\ki_6\ATBM\ontx2\elhamal\bin\Debug\net8.0\elhamal.runtimeconfig.json
+D:\Canh\ki_6\ATBM\ontx2\elhamal\bin\Debug\net8.0\elhamal.dll
+D:\Canh\ki_6\ATBM\ontx2\elhamal\bin\Debug\net8.0\elhamal.pdb
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.AssemblyInfoInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.AssemblyInfo.cs
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.csproj.CoreCompileInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.dll
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\refint\elhamal.dll
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.pdb
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\elhamal.genruntimeconfig.cache
+D:\Canh\ki_6\ATBM\ontx2\elhamal\obj\Debug\net8.0\ref\elhamal.dll

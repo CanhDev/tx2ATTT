@@ -1,0 +1,14 @@
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.AssemblyInfoInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.AssemblyInfo.cs
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.csproj.CoreCompileInputs.cache
+D:\Canh\ki_6\ATBM\ontx2\affine\bin\Debug\net8.0\affine.exe
+D:\Canh\ki_6\ATBM\ontx2\affine\bin\Debug\net8.0\affine.deps.json
+D:\Canh\ki_6\ATBM\ontx2\affine\bin\Debug\net8.0\affine.runtimeconfig.json
+D:\Canh\ki_6\ATBM\ontx2\affine\bin\Debug\net8.0\affine.dll
+D:\Canh\ki_6\ATBM\ontx2\affine\bin\Debug\net8.0\affine.pdb
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.dll
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\refint\affine.dll
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.pdb
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\affine.genruntimeconfig.cache
+D:\Canh\ki_6\ATBM\ontx2\affine\obj\Debug\net8.0\ref\affine.dll
